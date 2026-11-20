@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model binaries / temporary serialized models
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
